@@ -1,10 +1,24 @@
 {
   "testnet": {
     "bestpractices": [
-      ""
+      "5CeNvTNam9XQK5wZiZXW4XgWK87BcrmKBo7EzQYLXr12cTt8",
+      "5H1zB4gY9JHd3wswg4wXewSu3n4jmpAVGcEJEXNNnk4oqYmq",
+      "5FAM69g3hAhwbL7zxMx8VoEotQk7Us72ccdn8yEqzvyhqLCV",
+      "5HZdTZt6doxcGmGimf7J2dPfRXWaHntocvzGGZbsxkMAWcCg",
+      "5EqNn9oPsuNZLAyqGd7bNZKLTALy3LGiDo7GqR2bp55dXJ1p",
+      "5D3L7KGALuvFA9ncCDLyKT4v56HHjXrYn4wmYZSeY5EtbMG1",
+      "5DnBeAyKCCyLa4UF8mEa8hbyQUqxnrN4wDKP8rsi5YEL95Gh",
+      "5EdrnMrxtkvqvw6SBL88vJXdnczZAPG6dyQhawTGDnopREF9"
     ],
     "certified": [
-      ""
+      "5CeNvTNam9XQK5wZiZXW4XgWK87BcrmKBo7EzQYLXr12cTt8",
+      "5H1zB4gY9JHd3wswg4wXewSu3n4jmpAVGcEJEXNNnk4oqYmq",
+      "5FAM69g3hAhwbL7zxMx8VoEotQk7Us72ccdn8yEqzvyhqLCV",
+      "5HZdTZt6doxcGmGimf7J2dPfRXWaHntocvzGGZbsxkMAWcCg",
+      "5EqNn9oPsuNZLAyqGd7bNZKLTALy3LGiDo7GqR2bp55dXJ1p",
+      "5D3L7KGALuvFA9ncCDLyKT4v56HHjXrYn4wmYZSeY5EtbMG1",
+      "5DnBeAyKCCyLa4UF8mEa8hbyQUqxnrN4wDKP8rsi5YEL95Gh",
+      "5EdrnMrxtkvqvw6SBL88vJXdnczZAPG6dyQhawTGDnopREF9"
     ]
   },
   "develop": {
