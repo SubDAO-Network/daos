@@ -1,0 +1,18 @@
+{
+  "testnet": {
+    "bestpractices":[
+      "",
+    ],
+    "certified":[
+      "",
+      ]
+  },
+  "develop": {
+    "bestpractices":[
+      "",
+    ],
+    "certified":[
+      "",
+      ]
+  }
+}
