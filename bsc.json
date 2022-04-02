@@ -1,14 +1,14 @@
 {
+  "mainnet": {
+    "bestpractices": [],
+    "certified": []
+  },
   "testnet": {
-    "bestpractices": [
-    ],
-    "certified": [
-    ]
+    "bestpractices": [74],
+    "certified": [74]
   },
   "develop": {
-    "bestpractices": [
-    ],
-    "certified": [
-    ]
+    "bestpractices": [],
+    "certified": []
   }
 }
