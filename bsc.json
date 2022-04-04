@@ -4,8 +4,8 @@
     "certified": []
   },
   "testnet": {
-    "bestpractices": [74],
-    "certified": [74]
+    "bestpractices": [327],
+    "certified": [327]
   },
   "develop": {
     "bestpractices": [],
