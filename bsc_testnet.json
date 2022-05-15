@@ -1,0 +1,26 @@
+{
+  "mainnet": {
+    "bestpractices": [
+      
+    ],
+    "certified": [
+      
+    ]
+  },
+  "testnet": {
+    "bestpractices": [
+      
+    ],
+    "certified": [
+      
+    ]
+  },
+  "develop": {
+    "bestpractices": [
+      
+    ],
+    "certified": [
+      
+    ]
+  }
+}
