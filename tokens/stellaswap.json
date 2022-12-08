@@ -1,0 +1,186 @@
+[
+    {
+        "symbol": "USDC",
+        "name": "USD Coin | Wormhole",
+        "chainId": 1284,
+        "decimals": 6,
+        "address": "0x931715FEE2d06333043d11F658C8CE934aC61D0c",
+        "logoURI": "https://raw.githubusercontent.com/stellaswap/assets/main/tokenlist/0x931715FEE2d06333043d11F658C8CE934aC61D0c/logo.png"
+    },
+    {
+        "symbol": "ACA.xc",
+        "name": "Acala",
+        "chainId": 1284,
+        "decimals": 12,
+        "address": "0xffffFFffa922Fef94566104a6e5A35a4fCDDAA9f",
+        "logoURI": "https://raw.githubusercontent.com/stellaswap/assets/main/bridge/ACA.png"
+    },
+    {
+        "symbol": "ATH",
+        "name": "Athos Finance",
+        "chainId": 1284,
+        "decimals": 18,
+        "address": "0xCBABEe0658725b5B21e1512244734A5D5C6B51D6",
+        "logoURI": "https://raw.githubusercontent.com/stellaswap/assets/main/tokenlist/0xCBABEe0658725b5B21e1512244734A5D5C6B51D6/logo.png"
+    },
+    {
+        "symbol": "ATOM.axl",
+        "name": "Cosmos",
+        "chainId": 1284,
+        "decimals": 6,
+        "address": "0x27292cf0016E5dF1d8b37306B2A98588aCbD6fCA",
+        "logoURI": "https://raw.githubusercontent.com/stellaswap/assets/main/tokenlist/0x27292cf0016E5dF1d8b37306B2A98588aCbD6fCA/logo.png"
+    },
+    {
+        "symbol": "aUSD.xc",
+        "name": "Acala Dollar",
+        "chainId": 1284,
+        "decimals": 12,
+        "address": "0xfFfFFFFF52C56A9257bB97f4B2b6F7B2D624ecda",
+        "logoURI": "https://raw.githubusercontent.com/stellaswap/assets/main/tokenlist/0xfFfFFFFF52C56A9257bB97f4B2b6F7B2D624ecda/logo.png"
+    },
+    {
+        "symbol": "AVAX.multi",
+        "name": "Avalanche | Multichain",
+        "chainId": 1284,
+        "decimals": 18,
+        "address": "0x4792C1EcB969B036eb51330c63bD27899A13D84e",
+        "logoURI": "https://raw.githubusercontent.com/stellaswap/assets/main/tokenlist/0x4792C1EcB969B036eb51330c63bD27899A13D84e/logo.png"
+    },
+    {
+        "symbol": "BNB.multi",
+        "name": "Binance | Multichain",
+        "chainId": 1284,
+        "decimals": 18,
+        "address": "0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055",
+        "logoURI": "https://raw.githubusercontent.com/stellaswap/assets/main/tokenlist/0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055/logo.png"
+    },
+    {
+        "symbol": "BUSD.multi",
+        "name": "Binance USD | Multichain",
+        "chainId": 1284,
+        "decimals": 18,
+        "address": "0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
+        "logoURI": "https://raw.githubusercontent.com/stellaswap/assets/main/tokenlist/0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F/logo.png"
+    },
+    {
+        "symbol": "DOT.xc",
+        "name": "xcDOT",
+        "chainId": 1284,
+        "decimals": 10,
+        "address": "0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080",
+        "logoURI": "https://raw.githubusercontent.com/stellaswap/assets/main/tokenlist/0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080/logo.png"
+    },
+    {
+        "symbol": "ETH.wh",
+        "name": "Ethereum | Wormhole",
+        "chainId": 1284,
+        "decimals": 18,
+        "address": "0xab3f0245B83feB11d15AAffeFD7AD465a59817eD",
+        "logoURI": "https://raw.githubusercontent.com/stellaswap/assets/main/tokenlist/0xab3f0245B83feB11d15AAffeFD7AD465a59817eD/logo.png"
+    },
+    {
+        "symbol": "FRAX",
+        "name": "Frax",
+        "chainId": 1284,
+        "decimals": 18,
+        "address": "0x322E86852e492a7Ee17f28a78c663da38FB33bfb",
+        "logoURI": "https://raw.githubusercontent.com/stellaswap/assets/main/tokenlist/0x322E86852e492a7Ee17f28a78c663da38FB33bfb/logo.png"
+    },
+    {
+        "symbol": "FTM.multi",
+        "name": "Fantom | Multichain",
+        "chainId": 1284,
+        "decimals": 18,
+        "address": "0xC19281F22A075E0F10351cd5D6Ea9f0AC63d4327",
+        "logoURI": "https://raw.githubusercontent.com/stellaswap/assets/main/tokenlist/0xC19281F22A075E0F10351cd5D6Ea9f0AC63d4327/logo.png"
+    },
+    {
+        "symbol": "iBTC.xc",
+        "name": "Interlay BTC",
+        "chainId": 1284,
+        "decimals": 8,
+        "address": "0xFFFFFfFf5AC1f9A51A93F5C527385edF7Fe98A52",
+        "logoURI": "https://raw.githubusercontent.com/stellaswap/assets/main/tokenlist/0xFFFFFfFf5AC1f9A51A93F5C527385edF7Fe98A52/logo.png"
+    },
+    {
+        "symbol": "INTR",
+        "name": "Interlay",
+        "chainId": 1284,
+        "decimals": 10,
+        "address": "0xFffFFFFF4C1cbCd97597339702436d4F18a375Ab",
+        "logoURI": "https://raw.githubusercontent.com/stellaswap/assets/main/tokenlist/0xFffFFFFF4C1cbCd97597339702436d4F18a375Ab/logo.png"
+    },
+    {
+        "symbol": "LDO",
+        "name": "Lido DAO",
+        "chainId": 1284,
+        "decimals": 18,
+        "address": "0x9Fda7cEeC4c18008096C2fE2B85F05dc300F94d0",
+        "logoURI": "https://raw.githubusercontent.com/stellaswap/assets/main/tokenlist/0x9Fda7cEeC4c18008096C2fE2B85F05dc300F94d0/logo.png"
+    },
+    {
+        "symbol": "MAI",
+        "name": "MAI",
+        "chainId": 1284,
+        "address": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/stellaswap/assets/main/tokenlist/0xdFA46478F9e5EA86d57387849598dbFB2e964b02/logo.png"
+    },
+    {
+        "symbol": "MATIC.multi",
+        "name": "Polygon | Multichain",
+        "chainId": 1284,
+        "decimals": 18,
+        "address": "0x3405A1bd46B85c5C029483FbECf2F3E611026e45",
+        "logoURI": "https://raw.githubusercontent.com/stellaswap/assets/main/tokenlist/0x3405A1bd46B85c5C029483FbECf2F3E611026e45/logo.png"
+    },
+    {
+        "symbol": "POOP",
+        "name": "POOP",
+        "chainId": 1284,
+        "decimals": 18,
+        "address": "0xFFfffFFecB45aFD30a637967995394Cc88C0c194",
+        "logoURI": "https://raw.githubusercontent.com/stellaswap/assets/main/tokenlist/0xFFfffFFecB45aFD30a637967995394Cc88C0c194/logo.png"
+    },
+    {
+        "symbol": "STELLA",
+        "name": "Stellaswap",
+        "chainId": 1284,
+        "decimals": 18,
+        "address": "0x0E358838ce72d5e61E0018a2ffaC4bEC5F4c88d2",
+        "logoURI": "https://raw.githubusercontent.com/stellaswap/assets/main/tokenlist/0x0E358838ce72d5e61E0018a2ffaC4bEC5F4c88d2/logo.png"
+    },
+    {
+        "symbol": "USDC.multi",
+        "name": "USD Coin | Multichain",
+        "chainId": 1284,
+        "decimals": 6,
+        "address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
+        "logoURI": "https://raw.githubusercontent.com/stellaswap/assets/main/tokenlist/0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b/logo.png"
+    },
+    {
+        "symbol": "WBTC.wh",
+        "name": "Wrapped BTC | Wormhole",
+        "chainId": 1284,
+        "decimals": 8,
+        "address": "0xE57eBd2d67B462E9926e04a8e33f01cD0D64346D",
+        "logoURI": "https://raw.githubusercontent.com/stellaswap/assets/main/tokenlist/0xE57eBd2d67B462E9926e04a8e33f01cD0D64346D/logo.png"
+    },
+    {
+        "symbol": "WELL",
+        "name": "Moonwell",
+        "chainId": 1284,
+        "decimals": 18,
+        "address": "0x511aB53F793683763E5a8829738301368a2411E3",
+        "logoURI": "https://raw.githubusercontent.com/stellaswap/assets/main/tokenlist/0x511aB53F793683763E5a8829738301368a2411E3/logo.png"
+    },
+    {
+        "symbol": "WGLMR",
+        "name": "Wrapped GLMR",
+        "chainId": 1284,
+        "decimals": 18,
+        "address": "0xAcc15dC74880C9944775448304B263D191c6077F",
+        "logoURI": "https://raw.githubusercontent.com/stellaswap/assets/main/tokenlist/0xAcc15dC74880C9944775448304B263D191c6077F/logo.png"
+    }
+]

@@ -1,0 +1,25 @@
+{
+  "fundList": [
+        {
+            "name": "Tether",
+            "symbol": "USDT",
+            "deci": 18,
+            "address": "0x9eabBB120ae7A9fb2d2B501C1Bff96555937Ce58",
+            "logo": "/logo/USDT.svg"
+        },
+        {
+            "name": "Mock USDT",
+            "symbol": "SUB",
+            "deci": 12,
+            "address": "0x9BFaD026Fad98Fe98e7734a5929ef0918c4FB1DD",
+            "logo": "/logo/USDT.svg"
+        }
+    ],
+  "bestpractices": [
+    58,
+    57,
+    56,
+    54,
+    53
+  ]
+}

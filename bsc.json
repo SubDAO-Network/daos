@@ -1,0 +1,23 @@
+{
+  "fundList": [
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "deci": 18,
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "logo": "/logo/BUSD.svg"
+    }
+  ],
+  "mainnet": {
+    "bestpractices": [],
+    "certified": []
+  },
+  "testnet": {
+    "bestpractices": [327],
+    "certified": [327]
+  },
+  "develop": {
+    "bestpractices": [],
+    "certified": []
+  }
+}

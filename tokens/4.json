@@ -1,0 +1,12 @@
+[
+
+  {
+    "chainId": 4,
+    "name": "Tether",
+    "symbol": "USDT",
+    "deci": 18,
+    "address": "0x9eabBB120ae7A9fb2d2B501C1Bff96555937Ce58",
+    "logo": "https://web3camp.us/LogoCollection/static/media/tether-usdt.1ac9a5ea8c7a29631fb8.png",
+    "logoURI": "https://web3camp.us/LogoCollection/static/media/tether-usdt.1ac9a5ea8c7a29631fb8.png"
+  }
+]

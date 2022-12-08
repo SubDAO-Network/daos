@@ -1,0 +1,14 @@
+
+
+{
+  "fundList": [
+    {
+      "name": "Tether",
+      "symbol": "USDT",
+      "deci": 6,
+      "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "logo": "/logo/USDT.svg"
+    }
+  ],
+  "bestpractices": []
+}

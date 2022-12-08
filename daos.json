@@ -1,0 +1,55 @@
+{
+  "testnet": {
+    "bestpractices": [
+      "5CyJfihMdEfQuCcSijRnHyVASGV6gyhu1agWkaNp315Ly4T2",
+      "5EsQ8HNinqcTua8s83Mw4sk66yidkizaKPv4YWTHEPoZwK1P",
+      "5ELLnyNe1eeR9r83K8sbmynSEVJmK9BABw81TeGiimnppCJu",
+      "5DHiCkPVNjnBqNPDKaRxCnwqHKTX3wmvV2hTRQg21L6McLWK",
+      "5DXdpLBnm5a9Nu9wGF5m6sPw747V6G5NgKpXwSLFPuun2fZF",
+      "5Cg9pv9cufFXWXKu92Cn6rmeb7RAp16muXfTDyY59vbKGNcr",
+      "5H4uZejFZzxQTYEyccX3Xpf2keUUDoJm3rHWa4JugDustwYQ",
+      "5G8mfP7XfHvdm1Z1egsLqi34H7hmW5Pjd14QypDqUXFZXWyN",
+      "5Goby7oRhfE93c5jXf3bSYxYWFC5mmyZwKhNyFijJXaqzcMY",
+      "5DN4kGmPmctVRN6faQzTcPSDJJ1WU2RQdn1MUemmSoafkBAQ"
+    ],
+    "certified": [
+      "5CyJfihMdEfQuCcSijRnHyVASGV6gyhu1agWkaNp315Ly4T2",
+      "5EsQ8HNinqcTua8s83Mw4sk66yidkizaKPv4YWTHEPoZwK1P",
+      "5ELLnyNe1eeR9r83K8sbmynSEVJmK9BABw81TeGiimnppCJu",
+      "5DHiCkPVNjnBqNPDKaRxCnwqHKTX3wmvV2hTRQg21L6McLWK",
+      "5DXdpLBnm5a9Nu9wGF5m6sPw747V6G5NgKpXwSLFPuun2fZF",
+      "5Cg9pv9cufFXWXKu92Cn6rmeb7RAp16muXfTDyY59vbKGNcr",
+      "5H4uZejFZzxQTYEyccX3Xpf2keUUDoJm3rHWa4JugDustwYQ",
+      "5G8mfP7XfHvdm1Z1egsLqi34H7hmW5Pjd14QypDqUXFZXWyN",
+      "5Goby7oRhfE93c5jXf3bSYxYWFC5mmyZwKhNyFijJXaqzcMY",
+      "5DN4kGmPmctVRN6faQzTcPSDJJ1WU2RQdn1MUemmSoafkBAQ"
+    ]
+  },
+  "develop": {
+    "bestpractices": [
+      "5GtHE6iYMiSRTuZ93RCABjCCyVhyuDc4cTi6JPy3LEsB7Z6d",
+      "5CeNvTNam9XQK5wZiZXW4XgWK87BcrmKBo7EzQYLXr12cTt8",
+      "5H1zB4gY9JHd3wswg4wXewSu3n4jmpAVGcEJEXNNnk4oqYmq",
+      "5FAM69g3hAhwbL7zxMx8VoEotQk7Us72ccdn8yEqzvyhqLCV",
+      "5HZdTZt6doxcGmGimf7J2dPfRXWaHntocvzGGZbsxkMAWcCg",
+      "5EqNn9oPsuNZLAyqGd7bNZKLTALy3LGiDo7GqR2bp55dXJ1p",
+      "5D3L7KGALuvFA9ncCDLyKT4v56HHjXrYn4wmYZSeY5EtbMG1",
+      "5DnBeAyKCCyLa4UF8mEa8hbyQUqxnrN4wDKP8rsi5YEL95Gh",
+      "5EdrnMrxtkvqvw6SBL88vJXdnczZAPG6dyQhawTGDnopREF9"
+    ],
+    "certified": [
+      "5GtHE6iYMiSRTuZ93RCABjCCyVhyuDc4cTi6JPy3LEsB7Z6d",
+      "5CeNvTNam9XQK5wZiZXW4XgWK87BcrmKBo7EzQYLXr12cTt8",
+      "5H1zB4gY9JHd3wswg4wXewSu3n4jmpAVGcEJEXNNnk4oqYmq",
+      "5FAM69g3hAhwbL7zxMx8VoEotQk7Us72ccdn8yEqzvyhqLCV",
+      "5HZdTZt6doxcGmGimf7J2dPfRXWaHntocvzGGZbsxkMAWcCg",
+      "5EqNn9oPsuNZLAyqGd7bNZKLTALy3LGiDo7GqR2bp55dXJ1p",
+      "5D3L7KGALuvFA9ncCDLyKT4v56HHjXrYn4wmYZSeY5EtbMG1",
+      "5DnBeAyKCCyLa4UF8mEa8hbyQUqxnrN4wDKP8rsi5YEL95Gh",
+      "5EdrnMrxtkvqvw6SBL88vJXdnczZAPG6dyQhawTGDnopREF9",
+      "5FjR1PkYWA5cB8JQRepzssEL7eJRi5LT7CFoQANbvwFQVZ86",
+      "5FDLJPVW27uQ4FRSvkR31kwhbDM7hWV3P9x1rXM5WB88in2a",
+      "5EYNWK4jbePx6ykadh6XPgPU4KUHgfEw9TqAvVYcDLyYx6RJ"
+    ]
+  }
+}
