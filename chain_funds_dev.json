@@ -1,0 +1,54 @@
+{
+  "1": [
+    {
+      "name": "Tether",
+      "symbol": "USDT",
+      "deci": 6,
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "logo": "/logo/USDT.svg"
+    }
+  ],
+  "56": [
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "deci": 18,
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "logo": "/logo/BUSD.svg"
+    }
+  ],
+  "97": [
+    {
+      "name": "WBNB",
+      "symbol": "WBNB",
+      "deci": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "logo": "/logo/BUSD.svg"
+    },
+    {
+      "name": "BNB",
+      "symbol": "BNB",
+      "deci": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "logo": "/logo/BUSD.svg"
+    }
+  ]
+  "137": [
+    {
+      "name": "Tether",
+      "symbol": "USDT",
+      "deci": 6,
+      "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "logo": "/logo/USDT.svg"
+    }
+  ],
+  "1284": [
+    {
+      "name": "Tether",
+      "symbol": "USDC",
+      "deci": 6,
+      "address": "0x931715FEE2d06333043d11F658C8CE934aC61D0c",
+      "logo": "/logo/USDC.svg"
+    }
+  ]
+}
