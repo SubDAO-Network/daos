@@ -22,14 +22,7 @@
       "name": "WBNB",
       "symbol": "WBNB",
       "deci": 18,
-      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
-      "logo": "/logo/BUSD.svg"
-    },
-    {
-      "name": "BNB",
-      "symbol": "BNB",
-      "deci": 18,
-      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "address": "0x931Bf638fC27499506a4C1446e5f905b0EC73C81",
       "logo": "/logo/BUSD.svg"
     }
   ],
