@@ -19,8 +19,8 @@
   ],
   "97": [
     {
-      "name": "WBNB",
-      "symbol": "WBNB",
+      "name": "BNB",
+      "symbol": "BNB",
       "deci": 18,
       "address": "0x931Bf638fC27499506a4C1446e5f905b0EC73C81",
       "logo": "/logo/BUSD.svg"
