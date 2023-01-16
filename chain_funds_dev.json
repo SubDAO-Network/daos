@@ -6,9 +6,21 @@
       "deci": 6,
       "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
       "logo": "/logo/USDT.svg"
+    },
+    {
+      "name": "Ether",
+      "symbol": "ETH",
+      "deci": 18,
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
     }
   ],
   "56": [
+    {
+      "name": "BNB",
+      "symbol": "BNB",
+      "deci": 18,
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    },
     {
       "name": "BUSD Token",
       "symbol": "BUSD",
@@ -42,6 +54,12 @@
     }
   ],
   "1284": [
+    {
+      "name": "GLMR",
+      "symbol": "GLMR",
+      "deci": 18,
+      "address": "0xAcc15dC74880C9944775448304B263D191c6077F"
+    },
     {
       "name": "Tether",
       "symbol": "USDC",
