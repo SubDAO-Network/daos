@@ -1,2 +1,2 @@
 # daos
-The repo of daos
+The repo includes daos, funds list, token assets, etc.
