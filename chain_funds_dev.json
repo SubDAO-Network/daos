@@ -1,68 +1,88 @@
 {
-  "1": [
-    {
-      "name": "Tether",
-      "symbol": "USDT",
-      "deci": 6,
-      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
-    },
-    {
-      "name": "Ether",
-      "symbol": "ETH",
-      "deci": 18,
-      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
-    }
-  ],
-  "56": [
-    {
-      "name": "BNB",
-      "symbol": "BNB",
-      "deci": 18,
-      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
-    },
-    {
-      "name": "BUSD Token",
-      "symbol": "BUSD",
-      "deci": 18,
-      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
-      "logo": "/logo/BUSD.svg"
-    }
-  ],
-  "97": [
-    {
-      "name": "BNB",
-      "symbol": "BNB",
-      "deci": 18,
-      "address": "0x931Bf638fC27499506a4C1446e5f905b0EC73C81",
-      "logo": "/logo/BUSD.svg"
-    }
-  ],
-  "137": [
-    {
-      "name": "MATIC",
-      "symbol": "MATIC",
-      "deci": 18,
-      "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
-    },
-    {
-      "name": "Tether",
-      "symbol": "USDT",
-      "deci": 6,
-      "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F"
-    }
-  ],
-  "1284": [
-    {
-      "name": "GLMR",
-      "symbol": "GLMR",
-      "deci": 18,
-      "address": "0xAcc15dC74880C9944775448304B263D191c6077F"
-    },
-    {
-      "name": "Tether",
-      "symbol": "USDC",
-      "deci": 6,
-      "address": "0x931715FEE2d06333043d11F658C8CE934aC61D0c"
-    }
-  ]
+    "1": [
+        {
+            "name": "Tether",
+            "symbol": "USDT",
+            "deci": 6,
+            "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
+        },
+        {
+            "name": "Ether",
+            "symbol": "ETH",
+            "deci": 18,
+            "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+        }
+    ],
+    "56": [
+        {
+            "name": "BNB",
+            "symbol": "BNB",
+            "deci": 18,
+            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+        },
+        {
+            "name": "BUSD Token",
+            "symbol": "BUSD",
+            "deci": 18,
+            "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+            "logo": "/logo/BUSD.svg"
+        }
+    ],
+    "97": [
+        {
+            "name": "BNB",
+            "symbol": "BNB",
+            "deci": 18,
+            "address": "0x931Bf638fC27499506a4C1446e5f905b0EC73C81",
+            "logo": "/logo/BUSD.svg"
+        }
+    ],
+    "137": [
+        {
+            "name": "MATIC",
+            "symbol": "MATIC",
+            "deci": 18,
+            "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
+        },
+        {
+            "name": "Tether",
+            "symbol": "USDT",
+            "deci": 6,
+            "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F"
+        }
+    ],
+    "1284": [
+        {
+            "name": "GLMR",
+            "symbol": "GLMR",
+            "deci": 18,
+            "address": "0xAcc15dC74880C9944775448304B263D191c6077F"
+        },
+        {
+            "name": "Tether",
+            "symbol": "USDC",
+            "deci": 6,
+            "address": "0x931715FEE2d06333043d11F658C8CE934aC61D0c"
+        }
+    ],
+    "42161": [
+        {
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "deci": 6,
+            "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9"
+        },
+        {
+            "name": "USD Coin (Arb1)",
+            "symbol": "USDC",
+            "deci": 6,
+            "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8"
+        },
+        {
+            "name": "Ether",
+            "symbol": "ETH",
+            "deci": 18,
+            "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1"
+        }
+    ]
 }
