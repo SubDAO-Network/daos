@@ -90,7 +90,8 @@
             "name": "USD Coin",
             "symbol": "USDC",
             "deci": 6,
-            "address": "0x0faF6df7054946141266420b43783387A78d82A9"
+            "address": "0x0faF6df7054946141266420b43783387A78d82A9",
+            "logo": "/logo/USDC.svg"
         }
     ]
 }
