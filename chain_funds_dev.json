@@ -84,5 +84,13 @@
             "deci": 18,
             "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1"
         }
+    ],
+    "324": [
+        {
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "deci": 6,
+            "address": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4"
+        }
     ]
 }
